@@ -1,0 +1,1 @@
+# flashcard-ecosystem-architecture
