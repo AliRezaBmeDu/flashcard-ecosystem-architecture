@@ -188,7 +188,7 @@ flowchart TB
 ## Live Demo & Media
 
 - **Live Play Store Link:** [Muktibeg — HSC & Admission on Google Play](https://play.google.com/store/apps/details?id=com.muktibeg.flashcards)
-- **Web platform:** [AceYourEd — spaced repetition learning](https://www.aceyoured.com)
+- **Web platform:** [Muktibeg Flashcard Web — spaced repetition learning](https://muktibeg.aceyoured.com/web/dashboard)
 - **Demo Video Link:** [Demo Video Link — placeholder, to be added]
 - **Screenshots:** [Screenshots — placeholder, to be added]
 
